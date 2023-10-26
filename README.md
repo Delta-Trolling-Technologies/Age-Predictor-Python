@@ -1,2 +1,5 @@
-# Age-Predictor-Python
-Predicts ur age
+# Age Predictor in Python
+
+Very simple code
+
+Just open `agecalc.py` and enter ur birthdate
